@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andy Le
 - 👀 I’m interested in rockets, autonomous cars and drones, playing/making music
-- 🌱 I’m currently learning How to implement object tracking using Arduino
+- 🌱 I’m currently learning How to implement object tracking using Computer Vision
 - 💞️ I’m looking to collaborate on an object tracking car project
 
 <!---
